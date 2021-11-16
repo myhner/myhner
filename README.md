@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @myhner
+- 👋 Hi, I’m @neha-meher-801
 - 👀 I’m interested in Java, C, C++, Javascript
 - 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on ...
